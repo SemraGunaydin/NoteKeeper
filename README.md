@@ -17,3 +17,11 @@ Responsive Design: Optimized for all screen sizes, ensuring usability on both de
 HTML5: For structuring the application.
 CSS: For styling and layout.
 JavaScript: For implementing functionality and interactivity.
+
+
+# 📸 Preview
+![Note Keeper](https://github.com/user-attachments/assets/a840a4f5-1eb0-4905-95df-285461e2c3d7)
+
+
+# 📧 Contact
+semra.gunaydinwork@outlook.com
