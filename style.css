@@ -85,7 +85,7 @@ header {
     overflow-y: auto;
 }
 
-.note .details .title{
+.note .details .title {
     font-size: 22px;
     font-weight: 500;
 }
@@ -104,6 +104,7 @@ header {
 .bottom-content span{
     color: #6d6d6d;
     font-size: 14px;
+    
 }
 
 .bottom-content .settings{
@@ -147,7 +148,7 @@ header {
     background-color: #f5f5f5;
 }
 
-.meni li i {
+.menu li i {
     padding-right: 8px;
 }
 
@@ -223,7 +224,7 @@ header {
     margin-bottom: 6px;
 }
 
-.popup .content form :where(input,textarea) {
+.popup .content form :where(input, textarea) {
     height: 50px;
     width: 100%;
     border-radius: 4px;
@@ -231,7 +232,7 @@ header {
     text-indent: 15px;
 }
 
-.popup .content form :where(input,textarea):focus{
+.popup .content form :where(input, textarea):focus{
     box-shadow: 0 2px 4px rgba(0,0,0,0.11);
 }
 
