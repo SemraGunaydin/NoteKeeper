@@ -13,7 +13,7 @@ Edit Notes: Update and modify existing notes.
 Delete Notes: Remove unwanted notes with ease.
 Responsive Design: Optimized for all screen sizes, ensuring usability on both desktop and mobile devices.
 
-# ⚒️ Technologies Used 🎨
+# ⚒️ Technologies Used 
 HTML5: For structuring the application.
 CSS: For styling and layout.
 JavaScript: For implementing functionality and interactivity.
